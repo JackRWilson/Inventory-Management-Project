@@ -1,6 +1,6 @@
 # Project Overview
 
-Inventory management is essential for any grocery store. It helps track popular sales, total assets, and restock on diminishing items.
+Inventory management is essential for any grocery store. It helps track popular sales, total assets, and pruchases of diminishing items.
 
 This small inventory management database is part of an assignment and is used as coding practice rather than a practical tracking system.
 
