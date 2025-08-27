@@ -1,0 +1,19 @@
+id,name,category,price,quantity
+1,milk,dairy,3.49,25
+2,cheddar cheese,dairy,5.99,18
+3,gala apples,produce,1.29,100
+4,bananas,produce,0.59,150
+5,carrots,produce,1.79,75
+6,ground beef,meat,6.99,30
+7,chicken breast,meat,8.49,45
+8,frozen pizza,frozen,7.99,20
+9,ice cream,frozen,4.5,40
+10,bread,bakery,2.99,50
+11,pasta,pantry,1.59,60
+12,coffee,beverages,9.99,22
+13,orange juice,beverages,3.29,35
+14,paper towels,household,12.49,15
+15,shampoo,personal care,6.75,28
+16,bagels,bakery,3.49,29
+17,razors,personal care,12.99,50
+18,beans,pantry,0.99,120
