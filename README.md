@@ -12,7 +12,7 @@ A list of database options is shown upon running `inventory_management.py`.
 
 This repository contains 2 main files.
 
-| File                      | Description                                                                                     |
-| ------------------------- | ----------------------------------------------------------------------------------------------- |
-| `inventory_management.py` | Contains all code needed to run the database                                                    |
-| `inventory.csv`           | Contains a small sample of 18 items that may be in the database. Not needed to run the database |
+| File                      | Description                                                                                           |
+| ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| `inventory_management.py` | Contains all code needed to run the database                                                          |
+| `inventory.csv`           | Contains a small sample of 18 items that may be found in the database. Not needed to run the database |
